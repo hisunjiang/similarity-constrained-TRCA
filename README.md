@@ -6,4 +6,4 @@ A modified task-related component analysis for SSVEP detection
 - Filter bank analysis is adopted;
 
 ## Acknowledgement
-Thank Dr. Chi Man Wong very much for providing the demo code of TRCA-R (). This demo was modified based on their code framework.
+Thank Dr. Chi Man Wong very much for providing the code of TRCA-R (https://github.com/edwin465/SSVEP-TRCA-R). This demo was modified based on their data processing framework.
