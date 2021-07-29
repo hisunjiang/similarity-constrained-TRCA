@@ -228,7 +228,7 @@ for sn=1:num_of_subj
                             TRCARR(sub_band,j)=0;
                         end
                         
-                        %===============emsTRCA==================
+                        %===============mseTRCA==================
                         if (enable_bit(3)==1) 
                             if (num_of_trials==1)
                                 msTRCAR(sub_band,j)=0;
