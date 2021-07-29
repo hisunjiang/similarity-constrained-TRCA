@@ -33,7 +33,7 @@ accuracy = zeros(num_of_subj,4);
 for sn=1:num_of_subj
     %% data preprocessing
     % Directory of the SSVEP Dataset
-    str_dir='E:\laboratory\codes\DATA\SSVEP data\ssvep_benchmark_dataset'; 
+    str_dir='E:\laboratory\ssvep_benchmark_dataset'; 
     string=[str_dir, '\S', num2str(sn), '.mat'];
     load(string)
     
