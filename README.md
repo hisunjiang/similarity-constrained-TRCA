@@ -1,5 +1,5 @@
 # similarity-constrained-TRCA (scTRCA)
-A modified task-related component analysis (TRCA) method was proposed for SSVEP detection, and the proposed method showed higher performance than traditional TRCA and other TRCA-based methods.  
+**A modified task-related component analysis (TRCA) method was proposed for SSVEP detection, and the proposed method showed higher performance than traditional TRCA and other TRCA-based methods.**  
 &nbsp;  
 More details please refer to our paper: *Q. Sun, et al., “Similarity-constrained task-related component analysis for enhancing SSVEP detection,” J Neural Eng, vol. 18, no. 4, Jun 4, 2021.*
 ## Brief Description
